@@ -1,6 +1,5 @@
 ---
 layout: about
 ---
-# About Me
 
-My name is buemlned.
+> "Assembly of Japan bicycle require great peace of mind."
