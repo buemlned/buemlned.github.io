@@ -1,4 +1,4 @@
 ---
-layout: post
-title: about.me
+layout: default
+title: About Me
 ---
