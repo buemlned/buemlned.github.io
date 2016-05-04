@@ -6,5 +6,5 @@ layout: about
 
 # Support Me
 
-If you like what I am doing, you can buy me a book in [my kindle wishlist](http://amzn.com/w/1JLKA0U3N2YB2).
+If you like what I am doing, you can gift me a book from [my kindle wishlist](http://amzn.com/w/1JLKA0U3N2YB2).
 
